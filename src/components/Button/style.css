@@ -1,0 +1,10 @@
+button {
+    margin-top: 55px;
+    font-family: "Lato",Sans-serif;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 300;
+    background-color: #014561;
+    padding: 14px 50px 14px 45px;
+    color: white;
+}

@@ -1,0 +1,21 @@
+.card3-container {
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+  width: 95%;
+}
+
+.box {
+  width: 50%;
+  float: left;
+  height: 120px; /*Altura da linha*/
+}
+
+.linha-vertical {
+  border-left: 1px solid #2c2c2c; /* Adiciona borda esquerda na div como ser fosse uma linha.*/
+  box-sizing: border-box;
+  filter: alpha(opacity=70);
+  opacity: 0.7;
+  -moz-opacity: 0.7;
+  -webkit-opacity: 0.7;
+}

@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "case-react:src/components/Footer/index.Footer (nodejs10.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "${workspaceFolder}/",
+                "lambdaHandler": "src/components/Footer/index.Footer"
+            },
+            "lambda": {
+                "runtime": "nodejs10.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+.home-page {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    min-height: 1px;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.home-page strong{
+    text-align: center;
+    color: #1C86A4;
+    font-family: "Cormorant",Sans-serif;
+    font-size: 38px;
+    font-weight: 300;
+}

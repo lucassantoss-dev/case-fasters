@@ -1,0 +1,30 @@
+.card-container {
+    margin-top: 100px;
+    border: 1px solid white;
+    width: 66.573%;
+    height: 100%;
+    background-color:white;
+    font-family: 'Roboto';
+    font-size: 20px;
+    box-sizing: border-box;
+  }
+
+.frase {
+  font-style: italic;
+  font-family: 'Roboto Slab';
+  color: #6EC1E4;
+}
+.ass{
+  color: #7A7A7A;
+  float: right;
+}
+.imgcard1{
+  max-width: 100%;
+  box-shadow: none;
+  vertical-align: middle;
+  float: left;
+  border: transparent thin solid;
+  padding: 5px;
+  margin: 0px 75px 10px 0;
+
+}
